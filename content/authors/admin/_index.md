@@ -1,5 +1,5 @@
 ---
-title: Vidhi LalchandNelson Bighetti
+title: Vidhi Lalchand
 role: PhD Candidate  in Machine Learning
 avatar_filename: vidhi-lalchand-1-.jpg
 bio: My research interests include distributed robotics, mobile computing and
