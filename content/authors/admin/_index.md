@@ -9,21 +9,15 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/VRLalchand
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=c69gjE4AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/vidhi-lalchand-2297b53a/
 organizations:
   - name: University of Cambridge
     url: http://mlg.eng.cam.ac.uk/
@@ -35,7 +29,7 @@ education:
     - course: MPhil in Scientific Computing (Dept. of Physics)
       institution: "University of Cambridge "
       year: 2017
-email: vidhilalchand@gmail.com
+email: vr308@cam.ac.uk
 superuser: true
 highlight_name: true
 ---
