@@ -1,9 +1,8 @@
 ---
 title: Vidhi Lalchand
 role: PhD Candidate  in Machine Learning
-avatar_filename: vidhi-lalchand-1-.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: avatar.jpg
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
